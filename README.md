@@ -1,1 +1,2 @@
-# CS50.filter
+# harvard cs50 course tasks
+bmps filter implementation project
